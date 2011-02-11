@@ -1,6 +1,6 @@
 = joliprint
 
-Description goes here.
+A simple gem that generates a view helper which can be used to add a Joliprint button to your webpage. 
 
 == Contributing to joliprint
  
