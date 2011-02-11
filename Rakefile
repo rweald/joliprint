@@ -15,8 +15,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "joliprint"
   gem.homepage = "http://github.com/rweald/joliprint"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: Simple rails generator that creates a view helper to add joliprint button to your view}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{ Simple rails generator that creates a view helper to add joliprint button to your view}
+  #gem.description = %Q{: longer description of your gem}
   gem.email = "ryan@weald.com"
   gem.authors = ["Ryan Weald"]
   # Include your dependencies below. Runtime dependencies are required when using your gem,
