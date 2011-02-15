@@ -1,8 +1,8 @@
-= joliprint
+# joliprint
 
 A simple gem that contiains a view helper method that will place a Joliprint button on your webpage.
 
-=Usage
+#Usage
 
 Usage is simple just call Joliprint.joliprint_me from within any of your views to get joliprint button inserted on your page
 
