@@ -6,5 +6,5 @@ A simple gem that contiains a view helper method that will place a Joliprint but
 
 Usage is simple just call Joliprint.joliprint_me from within any of your views to get joliprint button inserted on your page
 
-<p> <%= Joliprint.joliprint_me %> </p>
+`<p> <%= Joliprint.joliprint_me %> </p>`
 
