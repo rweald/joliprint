@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Ryan Weald"]
-  s.date = %q{2011-02-11}
+  s.date = %q{2011-02-14}
   s.email = %q{ryan@weald.com}
   s.extra_rdoc_files = [
     "LICENSE.txt",
@@ -23,6 +23,7 @@ Gem::Specification.new do |s|
     "README.markdown",
     "Rakefile",
     "VERSION",
+    "joliprint.gemspec",
     "lib/joliprint.rb",
     "test/helper.rb",
     "test/test_joliprint.rb"
