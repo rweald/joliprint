@@ -23,8 +23,6 @@ Gem::Specification.new do |s|
     "README.rdoc",
     "Rakefile",
     "VERSION",
-    "lib/generators/joliprint_generator.rb",
-    "lib/generators/templates/_joliprint.html.erb",
     "lib/joliprint.rb",
     "test/helper.rb",
     "test/test_joliprint.rb"
